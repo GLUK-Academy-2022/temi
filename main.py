@@ -16,7 +16,7 @@ def home_page():
     return json_dump
 
 
-@app.route("/hello", method=["GET"])
+@app.route("/hello", methods=["GET"])
 def hello():
 
     return "teamname"
