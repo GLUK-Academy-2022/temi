@@ -1,5 +1,7 @@
 python flask api
 
+clone repo https://github.com/temialao/python-api.git
+
 install python3
 
 install pip3
